@@ -1,0 +1,42 @@
+body{
+	background-color: #d2d2c1;
+	background: url(imagensAna/fundo.png);
+}
+
+
+#menu{
+	width: 1150px;
+	padding: 30px;
+	border: 1px solid ffefd5;
+	background-color: #d0c3ae;
+	
+}
+
+ a{
+ 	font-size: 15px;
+	color: #4b566a;
+	text-decoration: none;
+	font-family: "Comic Sans MS";
+ }
+
+
+#titulo{
+	color: #a29888;
+	font-size: 25px;
+	font-family: "Comic Sans MS";
+}
+
+#sobreAna{
+	width: 1200px;
+	padding: 5px;
+	background: #ffefd5;
+}
+
+#rodape{
+	width: 1200px;
+	padding: 20px;
+	text-align: center;
+	background-color: #d0c3ae;
+	font-size: 10px;
+	font-family: "Comic Sans MS";
+}
