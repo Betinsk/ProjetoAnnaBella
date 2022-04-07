@@ -3,17 +3,6 @@ body{
 	background: url(imagensAna/fundo.png);
 }
 
-#contato{
-	padding: 10px;
-	font-family: "Comic Sans MS";
-}
-
-.img-campanha{
-	width: 1000px;
-	border: 10px solid #c3c3ae;
-
-}
-
 
 #menu{
 	width: 1150px;
